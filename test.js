@@ -11,7 +11,7 @@ function DNAStrand(dna){
   });
 }
 console.log(DNAStrand("ATTGC"));
-DNAStrand("GTAT");
+console.log(DNAStrand("GTAT"));
 
 // "ATTGC" --> "TAACG"
 // "GTAT" --> "CATA"
